@@ -4,9 +4,9 @@ Thank you for coming!
 February 2, 2019 - February 3, 2019
 
 Erik Straub, Mitchell Patterson, and Blain Smith
-AgnosTechValley
-http://agnostechvalley.com - @agnostechvalley
 
+- [[https://twitter.com/agnostechvalley][@agnostechvalley]]
+- [[http://agnostechvalley.com/][agnostechvalley.com]]
 
 * You have completed the GoBridge "Ultimate Go" workshop!
 Congratulations!
@@ -32,20 +32,34 @@ Please thank our awesome sponsors!
   work together with your company and your vision. We bring your products
   and services to life.
 
-.link https://www.ardanlabs.com https://www.ardanlabs.com
+.link https://www.ardanlabs.com ardanlabs.com
 
 .image https://www.ardanlabs.com/img/ardanlabs-logo.svg 200 _
 
-* Rensselaer
+* Severino Center for Technological Entrepreneurship
 
-  From renewable energy to cybersecurity, from biotechnology to materials
-  science, from big data to nanotechnology, the world needs problem solvers—exactly
-  the kind of talent Rensselaer produces—to address the urgent issues of today
-  and the emerging issues of tomorrow.
+  Some of the most valuable connections on campus are made through the Paul J. 
+  ’69 and Kathleen M. Severino Center for Technological Entrepreneurship. The 
+  center guides, mentors, and coaches student-based startup businesses, 
+  connecting those who are starting businesses to resources and networks within
+  and beyond the Rensselaer community. Each year, the Severino Center fosters
+  new generations of budding and successful entrepreneurs.
 
-.link https://www.rpi.edu https://www.rpi.edu
+.link https://lallyschool.rpi.edu/severino-center lallyschool.rpi.edu/severino-center
 
 .image http://scer.rpi.edu/sites/default/files/logo-without-tag.jpg 200 _
+
+* Startup Tech Valley
+
+  The mission of Startup Tech Valley is to provide events that engage what
+  Brad Feld has described as the entire entrepreneurial stack, which includes
+  first-time entrepreneurs, experienced entrepreneurs, aspiring entrepreneurs,
+  investors, mentors, employees of startups, service providers to startups, 
+  and anyone else who wants to be involved.
+
+.link http://startuptechvalley.org/ startuptechvalley.org
+
+.image images/stv.png 200 _
 
 * Jahnel Group
 
@@ -53,23 +67,16 @@ Please thank our awesome sponsors!
   agency focused on providing world class service, experience, and expertise
   to help you improve your software systems and development processes.
 
-.link https://www.jahnelgroup.com https://www.jahnelgroup.com
+.link https://www.jahnelgroup.com jahnelgroup.com
 
 .image https://www.jahnelgroup.com/images/general/jg_logo-home_page.png _ 200
 
 * CPS Recruitment
 
-  Contemporary Personnel Staffing (CPS) was established in 1989 by Laurie
-  Liechty, CPC to provide temporary staffing solutions in Clerical,
-  Administrative, Accounting, Manufacturing, and Technical disciplines.
-  In 1996, Laurie recognized the need for executive level recruitment
-  services, and founded Professionals Incorporated to focus on Accounting/Finance,
-  Engineering, Government Contracting, HR, Information Technology, and
-  Sales/Marketing. Together, CPS and Professionals Incorporated have merged to
-  form CPS Recruitment, the largest independently owned, full service staffing
-  and recruitment firm in Central NY.
+  Contemporary Personnel Staffing (CPS) is the largest independently owned,
+  full service staffing and recruitment firm in Central NY.
 
-.link https://www.cpsrecruiter.com/ https://www.cpsrecruiter.com/
+.link https://www.cpsrecruiter.com/ cpsrecruiter.com
 
 .image https://www.cpsrecruiter.com/wp-content/uploads/sites/669/2017/02/new-logo.jpg _ 200
 
@@ -84,8 +91,8 @@ Please thank our awesome sponsors!
   engines, game chat, marketing, telemetry, and more. MadGlory is based in
   Saratoga Springs, NY.
 
-.link https://www.pubg.com/ https://www.pubg.com/
-.link https://madglory.com/ https://madglory.com/
+.link https://www.pubg.com/ pubg.com
+.link https://madglory.com/ madglory.com
 
 .image https://madglory.com/static/pubgmg-logo-2x.6fa95f4a.png _ 200
 
@@ -98,7 +105,7 @@ Please thank our awesome sponsors!
   composed of digital media experts as well as creative designers
   and experienced developers.
 
-.link https://oddnetworks.com https://oddnetworks.com
+.link https://oddnetworks.com oddnetworks.com
 
 .image images/odd.png _ 200
 
@@ -111,26 +118,24 @@ Please thank our awesome sponsors!
   their biomechanics, resulting in fewer injuries and improved
   well-being. 
 
-.link https://www.wearkinetic.com/ https://www.wearkinetic.com/
+.link https://www.wearkinetic.com/ wearkinetic.com
 
 .image https://scontent-lga3-1.cdninstagram.com/vp/9de666a0fb5f9baddc5f9265ee01ad4b/5CF57134/t51.2885-15/e15/10954424_617351028409259_1998118214_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com _ 300
 
 
-* Participate in your local Go community
+* Participate in your local Go community!
 
-Information for each local Go communities.
-
-- Join the #go channel on AgnosTechValley Slack (invite: [[http://slack.agnostechvalley.com/][http://slack.agnostechvalley.com/]])
+- Join the #go channel on AgnosTechValley Slack (invite: [[http://slack.agnostechvalley.com/][slack.agnostechvalley.com/]])
 
 * Participate in the GoBridge Community
 
 - Twitter: @golangbridge
 
-- Join the #gobridge channel on Gophers Slack (invite: [[https://invite.slack.golangbridge.org/][https://invite.slack.golangbridge.org/]])
+- Join the #gobridge channel on Gophers Slack (invite: [[https://invite.slack.golangbridge.org/][invite.slack.golangbridge.org/]])
 
 - Participate in the Go Forum: [[https://forum.golangbridge.org/][https://forum.golangbridge.org/]]
 
-- Reach out on the mailing-list: [[https://groups.google.com/forum/#!forum/gobridge][https://groups.google.com/forum/#!forum/gobridge]]
+- Reach out on the mailing-list: [[https://groups.google.com/forum/#!forum/gobridge][groups.google.com/forum/#!forum/gobridge]]
 
 - Email: support@golangbridge.org
 
@@ -141,4 +146,4 @@ Information for each local Go communities.
 
 The entry point for all workshop information, including how to kickoff or fund one:
 
-.link https://github.com/gobridge/workshops/ https://github.com/gobridge/workshops/
+.link https://github.com/gobridge/workshops/ github.com/gobridge/workshops/
